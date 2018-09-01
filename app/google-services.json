@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1018172743177",
+    "firebase_url": "https://demochatting-226c9.firebaseio.com",
+    "project_id": "demochatting-226c9",
+    "storage_bucket": "demochatting-226c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018172743177:android:76baa0e6e33a8ac3",
+        "android_client_info": {
+          "package_name": "com.example.annguyen.kikichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018172743177-jskfntn9c47sggsq71vucs1ohopcghr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.annguyen.kikichat",
+            "certificate_hash": "e570ff8561ea276ce8405667cbe43a4466474ca3"
+          }
+        },
+        {
+          "client_id": "1018172743177-jeo6kcfqq26nfd87vdpa6hlpsmm1fhh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmV5O1AqEPl7oCgpdOtQeTlLq_7eY3uo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018172743177-jeo6kcfqq26nfd87vdpa6hlpsmm1fhh2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018172743177-1lp010f63st5342lni7oiru3efgoqmln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "AnNguyen.ChattingApp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
